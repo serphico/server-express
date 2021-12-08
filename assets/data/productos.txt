@@ -1,0 +1,1 @@
+[{"title":"bolso","price":15000,"thumbnail":"url2","id":1},{"title":"bolso","price":15000,"thumbnail":"url2","id":2},{"title":"bolso","price":15000,"thumbnail":"url2","id":3},{"title":"bolso","price":15000,"thumbnail":"url2","id":4},{"title":"bolso","price":15000,"thumbnail":"url2","id":5},{"title":"bolso","price":15000,"thumbnail":"url2","id":6}]
